@@ -1,7 +1,7 @@
 ##IEEE DOU Computer Society 
 ##2016-17 Dönemi C++ Eğitim Kaynakları
 
-- Derste anlatılan kaynak kod dosyaları [Releases](https://github.com/kocerb/IEEEDOU_CS_E01_Cpp/releases) sayfasından  her hafta için ayrılmış .zip dosyası olarak indirilebilir veya yukarıdaki klasörlerde ayrılmış şekilde bulunabilir.
+- Derste anlatılan programların kaynak kod dosyaları [Releases](https://github.com/kocerb/IEEEDOU_CS_E01_Cpp/releases) sayfasından her hafta için ayrı .zip dosyası olarak indirilebilir veya yukarıdaki klasörlerde ayrılmış şekilde bulunabilir.
 - Klasörler içinde bulunan .cpp uzantılı kaynak kodu dosyalarını, direkt olarak Visual Studio ile açmak yerine bir not defterinde açıp kodlara bakarak kendiniz yazmanız hem oluşabilecek derleme hatalarına engel olacak hem de konuları daha iyi kavramanızı sağlayacaktır.
 
 ### 1. Hafta - Ek notlar ve kaynaklar
