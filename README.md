@@ -1,5 +1,3 @@
-### IEEEDOU_CS_E01_Cpp
-
 ##IEEE DOU Computer Society 
 ##2016-17 Dönemi C++ Eğitim Kaynakları
 
