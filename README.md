@@ -12,7 +12,7 @@ Program kod dosyaları --> (https://github.com/kocerb/IEEEDOU_CS_E01_Cpp/release
 ### 2. Hafta - Ek notlar ve kaynaklar
 Program kod dosyaları --> (https://github.com/kocerb/IEEEDOU_CS_E01_Cpp/releases/download/0.02/2.Hafta.zip)
 - [Kontrol yapıları, karşılaştırma deyimleri](http://www1.gantep.edu.tr/~bingul/c/index.php?ders=6)
-- [cmath kütüphanesi temel fonksiyonları](http://www1.gantep.edu.tr/~bingul/c/index.php?ders=7)
+- [Döngüler](http://www1.gantep.edu.tr/~bingul/c/index.php?ders=7)
 
 Not 1: Geçtiğimiz derste sadece if-if else yapısını ve for döngüsünü öğrendik. Ancak paylaştığım linkte ek birkaç yapı daha var bunları önümüzdeki derste işleyeceğiz.
 
