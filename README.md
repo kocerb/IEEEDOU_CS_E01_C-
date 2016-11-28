@@ -17,3 +17,6 @@ Program kod dosyaları --> (https://github.com/kocerb/IEEEDOU_CS_E01_Cpp/release
 Not 1: Geçtiğimiz derste sadece if-if else yapısını ve for döngüsünü öğrendik. Ancak paylaştığım linkte ek birkaç yapı daha var bunları önümüzdeki derste işleyeceğiz.
 
 Not 2: Kodlarda // ile başlayan satırlar yorum satırlarıdır, bu satırlar derleme sırasında programa dahil edilmez sadece açıklama yapmak içindir.
+
+### 3. Hafta - Ek notlar ve kaynaklar
+Program kod dosyaları --> (https://github.com/kocerb/IEEEDOU_CS_E01_Cpp/releases/download/0.03/3.Hafta.zip)
